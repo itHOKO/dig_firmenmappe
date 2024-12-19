@@ -1,1 +1,3 @@
 # dig_firmenmappe
+
+Im Sharepoint ist unsere letzte Version als Zip abgelegt diese könnt ihr als Absprung verwenden. Im Endeffekt müssen die Leiferscheine PDFs aus Leiferscheine_raw auf die Ordner gemappt werden die durch das Create Folder script enstehen. Abweichungen Fimrenname und Rechnungsname auf Leiferschein und in der Profaris anmeldung waren hier das Problem wieso wir es nicht komplett automatisieren konnten. Da wir die Leiferscheine erst 2 Tage vor der Messe bekommen haben. Wir haben dann händisch PDF mit Folder gematch. Weißt eueren Finanzer darauf das wenn Firmen mehrere Tage kommen in jedem Lieferschein ein richtiges LEistungsdatum und kein 05-07.11 o. ä. angegeben ist. Machts komplizierter.
